@@ -3,6 +3,8 @@
 // HALTECH VERSION
 // NeoPixel Ring simple sketch (c) 2013 Shae Erisson
 // Released under the GPLv3 license to match the rest of the Adafruit NeoPixel library
+// source code: https://github.com/ptmotorsport/PTSL1-CANbus-
+// Shiftlight/blob/main/PTSL1_CANShiftlight_Haltech.ino
 
 #include <Adafruit_NeoPixel.h> // Library for NeoPixel Communication
 #include <SPI.h>               // Library for using SPI Communication 
